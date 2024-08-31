@@ -45,3 +45,8 @@ You can view the live demo of the login and signup page [here](https://m-raj-22.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+Feel free to reach out if you have any questions or suggestions
+
+Created by Raj Mehta
